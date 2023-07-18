@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcospozzo
 - 👀 I’m interested in people
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on clever projects
+- 💞️ I’m looking to collaborate on creative projects
 - 📫 How to reach me? Here!
 
 <!---
