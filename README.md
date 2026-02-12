@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcospozzo
 - 👀 I’m interested in people
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on creative projects
+- 🌱 I’m currently learning Table Tennis and ESP32
+- 💞️ I'm looking forward to having some free time
 - 📫 How to reach me? Here!
 
 <!---
