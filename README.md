@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcospozzo
 - 👀 I’m interested in people
-- 🌱 I’m currently learning Table Tennis and ESP32
+- 🌱 I’m currently learning Table Tennis and 3D printing
 - 💞️ I'm looking forward to having some free time
 - 📫 How to reach me? Here!
 
